@@ -2,7 +2,7 @@
 
 Gerador de sequências que seguem a "Conjectura de Collatz" em JavaScript.
 
-Desenvolvido com testes unitários usando a lib JSUS - http://crisstanza.github.io/jsus/
+Desenvolvido com testes unitários usando a lib JSUS <a href="http://crisstanza.github.io/jsus/" target="_blank">crisstanza.github.io/jsus</a>.
 
 
 ## Definição:
