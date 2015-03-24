@@ -16,4 +16,4 @@ Fonte: http://pt.wikipedia.org/wiki/Conjectura_de_Collatz
 
 ## Demonstração:
 
-A implementação e os testes unitários podem ser encontrados em: <a href="http://crisstanza.github.io/Conjectura-de-Collatz/" target="_blank"><b>crisstanza.github.io/Conjectura-de-Collatz</b></a>.
+A implementação e os testes unitários podem ser vistos em: <a href="http://crisstanza.github.io/Conjectura-de-Collatz/" target="_blank"><b>crisstanza.github.io/Conjectura-de-Collatz</b></a>.
