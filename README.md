@@ -2,7 +2,7 @@
 
 Gerador de sequências que seguem a "Conjectura de Collatz" em JavaScript.
 
-Desenvolvido com testes unitários usando a lib JSUS <a href="http://crisstanza.github.io/jsus/" target="_blank">crisstanza.github.io/jsus</a>.
+Desenvolvido com testes unitários usando a lib <b>JSUS</b> (<b>J</b>ava<b>S</b>cript <b>U</b>nit te<b>S</b>ting) - <a href="http://crisstanza.github.io/jsus/" target="_blank">crisstanza.github.io/jsus</a>.
 
 
 ## Definição:
@@ -11,4 +11,4 @@ A conjectura de Collatz é devida ao matemático alemão Lothar Collatz e també
 
 ## Demonstração:
 
-A implementação e os testes unitários podem ser encontrados em: <a href="http://crisstanza.github.io/Conjectura-de-Collatz/" target="_blank">crisstanza.github.io/Conjectura-de-Collatz</a>.
+A implementação e os testes unitários podem ser encontrados em: <a href="http://crisstanza.github.io/Conjectura-de-Collatz/" target="_blank"><b>crisstanza.github.io/Conjectura-de-Collatz</b></a>.
